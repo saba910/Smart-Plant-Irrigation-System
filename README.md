@@ -11,7 +11,7 @@ This project is an Arduino-based smart plant irrigation system designed to autom
 - Jumper Wires
 - Power Supply
 
-### ⚙️ How It Works
+###  How It Works
 1. The soil moisture sensor measures the moisture level.
 2. Arduino reads the sensor value continuously.
 3. If the soil becomes dry, the relay turns on the water pump.
@@ -23,6 +23,16 @@ This project is an Arduino-based smart plant irrigation system designed to autom
 - Easy to use
 - Low-cost hardware
 - Beginner-friendly Arduino project
+
+## Project component images
+### Arduino-Relay-Power_Supply
+![Arduino,Relay and Power supply](Images/relay_arduino_powerSupply.jpeg)
+
+### Soil Moisture Sensor
+![Soil Moisture Sensor](Images/sensor.jpeg)
+
+### Water Pump
+![Water Pump](Images/water-pump.jpeg)
 
 
 
@@ -51,6 +61,18 @@ This project is an Arduino-based smart plant irrigation system designed to autom
 - ري النباتات بشكل تلقائي.
 - تقليل استهلاك المياه.
 - بسيط وسهل التنفيذ.
-- مناسب للمبتدئين في Arduino.
+- مناسب للمبتدئين في Arduino
+-
+  ## صور لمكونات المشروع
+  
+### لوحة اردوينو اونو+محولة+مصدر الطاقة
+                                                                                      
+                                                                                          ![Arduino,Relay and Power supply](Images/relay_arduino_powerSupply.jpeg)
 
-##.
+## حساس الرطوبة
+
+                                                                                                                       ![Soil Moisture Sensor](Images/sensor.jpeg)
+
+##  مضخة ماء
+
+                                                                                                                            ![Water Pump](Images/water-pump.jpeg)
